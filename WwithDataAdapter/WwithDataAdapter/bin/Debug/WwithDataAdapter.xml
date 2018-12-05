@@ -1,0 +1,331 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WwithDataAdapter
+</name>
+</assembly>
+<members>
+<member name="T:WwithDataAdapter.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WwithDataAdapter.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WwithDataAdapter.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.CategoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.CustomerCustomerDemoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.CustomerDemographicsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.CustomersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.EmployeesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.EmployeeTerritoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.Order_DetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.OrdersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.ProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.RegionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.ShippersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.SuppliersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.TerritoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.CategoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.CustomerCustomerDemoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.CustomerDemographicsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.CustomersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.EmployeesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.EmployeeTerritoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.Order_DetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.OrdersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.ProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.RegionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.ShippersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.SuppliersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.TerritoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.CategoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.CustomerCustomerDemoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.CustomerDemographicsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.CustomersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.EmployeesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.EmployeeTerritoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.Order_DetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.OrdersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.ProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.RegionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.ShippersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.SuppliersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwind.TerritoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwindTableAdapters.CategoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwindTableAdapters.CustomerCustomerDemoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwindTableAdapters.CustomerDemographicsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwindTableAdapters.CustomersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwindTableAdapters.EmployeesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwindTableAdapters.EmployeeTerritoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwindTableAdapters.Order_DetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwindTableAdapters.OrdersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwindTableAdapters.ProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwindTableAdapters.RegionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwindTableAdapters.ShippersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwindTableAdapters.SuppliersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwindTableAdapters.TerritoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwindTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WwithDataAdapter.dsNorthwindTableAdapters.TableAdapterManager.UpdateUpdatedRows(WwithDataAdapter.dsNorthwind,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WwithDataAdapter.dsNorthwindTableAdapters.TableAdapterManager.UpdateInsertedRows(WwithDataAdapter.dsNorthwind,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WwithDataAdapter.dsNorthwindTableAdapters.TableAdapterManager.UpdateDeletedRows(WwithDataAdapter.dsNorthwind,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WwithDataAdapter.dsNorthwindTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WwithDataAdapter.dsNorthwindTableAdapters.TableAdapterManager.UpdateAll(WwithDataAdapter.dsNorthwind)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwindTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WwithDataAdapter.dsNorthwindTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

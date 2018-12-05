@@ -1,0 +1,11 @@
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week12\loaddatasetwithXML\loaddatasetwithXML\bin\Debug\loaddatasetwithXML.exe.config
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week12\loaddatasetwithXML\loaddatasetwithXML\bin\Debug\loaddatasetwithXML.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week12\loaddatasetwithXML\loaddatasetwithXML\bin\Debug\loaddatasetwithXML.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week12\loaddatasetwithXML\loaddatasetwithXML\bin\Debug\loaddatasetwithXML.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week12\loaddatasetwithXML\loaddatasetwithXML\obj\Debug\loaddatasetwithXML.Form1.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week12\loaddatasetwithXML\loaddatasetwithXML\obj\Debug\loaddatasetwithXML.Resources.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week12\loaddatasetwithXML\loaddatasetwithXML\obj\Debug\loaddatasetwithXML.vbproj.GenerateResource.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week12\loaddatasetwithXML\loaddatasetwithXML\obj\Debug\loaddatasetwithXML.vbproj.CoreCompileInputs.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week12\loaddatasetwithXML\loaddatasetwithXML\obj\Debug\loaddatasetwithXML.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week12\loaddatasetwithXML\loaddatasetwithXML\obj\Debug\loaddatasetwithXML.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week12\loaddatasetwithXML\loaddatasetwithXML\obj\Debug\loaddatasetwithXML.pdb
